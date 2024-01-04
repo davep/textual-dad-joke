@@ -18,7 +18,7 @@ $ pip install textual-dad-joke
 Import it as you would any other widget from a library:
 
 ```python
-from textual_data_joke import DadJoke
+from textual_dad_joke import DadJoke
 ```
 
 and then compose the `DadJoke` widget into your application as you would any
